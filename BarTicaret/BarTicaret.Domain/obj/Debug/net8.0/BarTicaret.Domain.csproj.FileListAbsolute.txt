@@ -1,0 +1,11 @@
+C:\Users\ARKMAN\source\repos\BarTicaret\BarTicaret.Domain\bin\Debug\net8.0\BarTicaret.Domain.deps.json
+C:\Users\ARKMAN\source\repos\BarTicaret\BarTicaret.Domain\bin\Debug\net8.0\BarTicaret.Domain.dll
+C:\Users\ARKMAN\source\repos\BarTicaret\BarTicaret.Domain\bin\Debug\net8.0\BarTicaret.Domain.pdb
+C:\Users\ARKMAN\source\repos\BarTicaret\BarTicaret.Domain\obj\Debug\net8.0\BarTicaret.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARKMAN\source\repos\BarTicaret\BarTicaret.Domain\obj\Debug\net8.0\BarTicaret.Domain.AssemblyInfoInputs.cache
+C:\Users\ARKMAN\source\repos\BarTicaret\BarTicaret.Domain\obj\Debug\net8.0\BarTicaret.Domain.AssemblyInfo.cs
+C:\Users\ARKMAN\source\repos\BarTicaret\BarTicaret.Domain\obj\Debug\net8.0\BarTicaret.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ARKMAN\source\repos\BarTicaret\BarTicaret.Domain\obj\Debug\net8.0\BarTicaret.Domain.dll
+C:\Users\ARKMAN\source\repos\BarTicaret\BarTicaret.Domain\obj\Debug\net8.0\refint\BarTicaret.Domain.dll
+C:\Users\ARKMAN\source\repos\BarTicaret\BarTicaret.Domain\obj\Debug\net8.0\BarTicaret.Domain.pdb
+C:\Users\ARKMAN\source\repos\BarTicaret\BarTicaret.Domain\obj\Debug\net8.0\ref\BarTicaret.Domain.dll

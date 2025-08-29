@@ -1,0 +1,18 @@
+﻿@model BarTicaret.Application.Products.ProductCreateDto
+@{
+    ViewData["Title"] = "Ürün Ekle";
+    // Basitlik için materyal ID'lerini el ile giriyoruz, istersen select'e çevirebiliriz
+}
+<h2>Ürün Ekle</h2>
+<form method="post">
+    <div><label>Ad</label><input asp-for="Ad" class="form-control" /></div>
+    <div class="mt-2"><label>Fiyat</label><input asp-for="Fiyat" class="form-control" /></div>
+    <div class="mt-2"><label>Adet</label><input asp-for="Adet" class="form-control" /></div>
+    <div class="mt-2"><label>KategoriId</label><input asp-for="KategoriId" class="form-control" /></div>
+    <div class="mt-2">
+        <label>MateryalIdleri (ör: 5,6)</label>
+        <input name="MateryalIdleri" class="form-control" value="" />
+        <small class="text-muted">Basitlik için çoklu giriş. İleride çoklu seçime çevirebiliriz.</small>
+    </div>
+    <button class="btn btn-success mt-3">Kaydet</button>
+</form>

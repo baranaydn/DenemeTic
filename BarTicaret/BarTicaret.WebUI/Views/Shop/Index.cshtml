@@ -1,0 +1,73 @@
+﻿@model IReadOnlyList<BarTicaret.Application.Products.ProductDto>
+
+@{
+    ViewData["Title"] = "Mağaza";
+
+    // Controller'da ViewBag.Materyaller bir string[] olarak geliyor
+    var mats = (string[])ViewBag.Materyaller;
+
+    // Seçili materyali querystring'ten al
+    var selectedMateryal = Context.Request.Query["materyal"].ToString();
+}
+
+<h2>Ürünler</h2>
+
+<form method="get" class="mb-3">
+    <label class="form-label">Materyal Filtresi:</label>
+    <select name="materyal" class="form-select" onchange="this.form.submit()">
+        <option value="">(Tümü)</option>
+        @foreach (var m in mats)
+        {
+            <option value="@m" selected="@(selectedMateryal == m ? "selected" : null)">@m</option>
+        }
+    </select>
+</form>
+
+@if (TempData["ok"] != null)
+{
+    <div class="alert alert-success">@TempData["ok"]</div>
+}
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Ad</th>
+            <th>Fiyat</th>
+            <th>Stok</th>
+            <th>Kategori</th>
+            <th>Materyaller</th>
+            <th style="width:120px;"></th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null && Model.Count > 0)
+        {
+            foreach (var p in Model)
+            {
+                <tr>
+                    <td>@p.Ad</td>
+                    <td>@p.Fiyat.ToString("0.00") ₺</td>
+                    <td>@p.Adet</td>
+                    <td>@p.Kategori</td>
+                    <td>@string.Join(", ", p.Materyaller)</td>
+                    <td>
+                        @if (p.Adet > 0)
+                        {
+                            <a class="btn btn-sm btn-primary" href="@Url.Action("Buy","Shop", new { id = p.Id })">Satın Al</a>
+                        }
+                        else
+                        {
+                            <span class="text-danger">Tükendi</span>
+                        }
+                    </td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="6" class="text-center text-muted">Liste boş.</td>
+            </tr>
+        }
+    </tbody>
+</table>

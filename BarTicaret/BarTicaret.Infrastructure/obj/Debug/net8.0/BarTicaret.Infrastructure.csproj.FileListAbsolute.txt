@@ -1,0 +1,17 @@
+C:\Users\ARKMAN\source\repos\BarTicaret\BarTicaret.Infrastructure\bin\Debug\net8.0\BarTicaret.Infrastructure.deps.json
+C:\Users\ARKMAN\source\repos\BarTicaret\BarTicaret.Infrastructure\bin\Debug\net8.0\BarTicaret.Infrastructure.dll
+C:\Users\ARKMAN\source\repos\BarTicaret\BarTicaret.Infrastructure\bin\Debug\net8.0\BarTicaret.Infrastructure.pdb
+C:\Users\ARKMAN\source\repos\BarTicaret\BarTicaret.Infrastructure\bin\Debug\net8.0\BarTicaret.Application.dll
+C:\Users\ARKMAN\source\repos\BarTicaret\BarTicaret.Infrastructure\bin\Debug\net8.0\BarTicaret.Domain.dll
+C:\Users\ARKMAN\source\repos\BarTicaret\BarTicaret.Infrastructure\bin\Debug\net8.0\BarTicaret.Application.pdb
+C:\Users\ARKMAN\source\repos\BarTicaret\BarTicaret.Infrastructure\bin\Debug\net8.0\BarTicaret.Domain.pdb
+C:\Users\ARKMAN\source\repos\BarTicaret\BarTicaret.Infrastructure\obj\Debug\net8.0\BarTicaret.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ARKMAN\source\repos\BarTicaret\BarTicaret.Infrastructure\obj\Debug\net8.0\BarTicaret.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARKMAN\source\repos\BarTicaret\BarTicaret.Infrastructure\obj\Debug\net8.0\BarTicaret.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ARKMAN\source\repos\BarTicaret\BarTicaret.Infrastructure\obj\Debug\net8.0\BarTicaret.Infrastructure.AssemblyInfo.cs
+C:\Users\ARKMAN\source\repos\BarTicaret\BarTicaret.Infrastructure\obj\Debug\net8.0\BarTicaret.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ARKMAN\source\repos\BarTicaret\BarTicaret.Infrastructure\obj\Debug\net8.0\BarTicar.01885055.Up2Date
+C:\Users\ARKMAN\source\repos\BarTicaret\BarTicaret.Infrastructure\obj\Debug\net8.0\BarTicaret.Infrastructure.dll
+C:\Users\ARKMAN\source\repos\BarTicaret\BarTicaret.Infrastructure\obj\Debug\net8.0\refint\BarTicaret.Infrastructure.dll
+C:\Users\ARKMAN\source\repos\BarTicaret\BarTicaret.Infrastructure\obj\Debug\net8.0\BarTicaret.Infrastructure.pdb
+C:\Users\ARKMAN\source\repos\BarTicaret\BarTicaret.Infrastructure\obj\Debug\net8.0\ref\BarTicaret.Infrastructure.dll

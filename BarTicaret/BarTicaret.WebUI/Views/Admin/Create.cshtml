@@ -1,0 +1,33 @@
+﻿@model BarTicaret.WebUI.Controllers.AdminCreateVm
+@{
+    ViewData["Title"] = "Ürün Ekle";
+}
+<h2>Ürün Ekle</h2>
+
+<form method="post">
+    <div class="mb-2">
+        <label>Ad</label>
+        <input asp-for="Ad" class="form-control" />
+        <span asp-validation-for="Ad" class="text-danger"></span>
+    </div>
+    <div class="mb-2">
+        <label>Fiyat</label>
+        <input asp-for="Fiyat" class="form-control" />
+        <span asp-validation-for="Fiyat" class="text-danger"></span>
+    </div>
+    <div class="mb-2">
+        <label>Adet</label>
+        <input asp-for="Adet" class="form-control" />
+        <span asp-validation-for="Adet" class="text-danger"></span>
+    </div>
+    <div class="mb-2">
+        <label>Kategori</label>
+        <select asp-for="KategoriId" asp-items="Model.Categories" class="form-select"></select>
+        <span asp-validation-for="KategoriId" class="text-danger"></span>
+    </div>
+    <div class="mb-2">
+        <label>Materyaller</label>
+        <select asp-for="SeciliMateryalIdleri" asp-items="Model.Materials" multiple class="form-select"></select>
+    </div>
+    <button class="btn btn-success">Kaydet</button>
+</form>

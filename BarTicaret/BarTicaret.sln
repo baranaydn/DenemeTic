@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarTicaret.Domain", "BarTicaret.Domain\BarTicaret.Domain.csproj", "{A94E493B-918E-468D-A6A4-C18AE56F659F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarTicaret.Application", "BarTicaret.Application\BarTicaret.Application.csproj", "{AB5AD535-65AE-4A7A-9E7D-50AF050A483B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarTicaret.Infrastructure", "BarTicaret.Infrastructure\BarTicaret.Infrastructure.csproj", "{74B80D48-0C22-4AC9-8622-C359E99FC7EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarTicaret.WebApi", "BarTicaret.WebApi\BarTicaret.WebApi.csproj", "{662EB5A3-5EDC-485B-9C44-3DB5327D0FA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarTicaret.WebUI", "BarTicaret.WebUI\BarTicaret.WebUI.csproj", "{9A7FE4DA-86C6-4E20-9B66-D4E143F035FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A94E493B-918E-468D-A6A4-C18AE56F659F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A94E493B-918E-468D-A6A4-C18AE56F659F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A94E493B-918E-468D-A6A4-C18AE56F659F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A94E493B-918E-468D-A6A4-C18AE56F659F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB5AD535-65AE-4A7A-9E7D-50AF050A483B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB5AD535-65AE-4A7A-9E7D-50AF050A483B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB5AD535-65AE-4A7A-9E7D-50AF050A483B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB5AD535-65AE-4A7A-9E7D-50AF050A483B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74B80D48-0C22-4AC9-8622-C359E99FC7EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74B80D48-0C22-4AC9-8622-C359E99FC7EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74B80D48-0C22-4AC9-8622-C359E99FC7EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74B80D48-0C22-4AC9-8622-C359E99FC7EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{662EB5A3-5EDC-485B-9C44-3DB5327D0FA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{662EB5A3-5EDC-485B-9C44-3DB5327D0FA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{662EB5A3-5EDC-485B-9C44-3DB5327D0FA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{662EB5A3-5EDC-485B-9C44-3DB5327D0FA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A7FE4DA-86C6-4E20-9B66-D4E143F035FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A7FE4DA-86C6-4E20-9B66-D4E143F035FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A7FE4DA-86C6-4E20-9B66-D4E143F035FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A7FE4DA-86C6-4E20-9B66-D4E143F035FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

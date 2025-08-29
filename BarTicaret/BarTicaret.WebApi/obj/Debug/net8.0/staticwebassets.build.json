@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "AzQScimAkfPztCRvivib8DaIAhbVKEVEF6SLteZrcYo=",
+  "Source": "BarTicaret.WebApi",
+  "BasePath": "_content/BarTicaret.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

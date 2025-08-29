@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BarTicaret.Application/1.0.0": {
+        "dependencies": {
+          "BarTicaret.Domain": "1.0.0"
+        },
+        "runtime": {
+          "BarTicaret.Application.dll": {}
+        }
+      },
+      "BarTicaret.Domain/1.0.0": {
+        "runtime": {
+          "BarTicaret.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BarTicaret.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BarTicaret.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

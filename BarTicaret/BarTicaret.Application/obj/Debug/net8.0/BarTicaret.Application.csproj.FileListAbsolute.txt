@@ -1,0 +1,15 @@
+C:\Users\ARKMAN\source\repos\BarTicaret\BarTicaret.Application\bin\Debug\net8.0\BarTicaret.Application.deps.json
+C:\Users\ARKMAN\source\repos\BarTicaret\BarTicaret.Application\bin\Debug\net8.0\BarTicaret.Application.dll
+C:\Users\ARKMAN\source\repos\BarTicaret\BarTicaret.Application\bin\Debug\net8.0\BarTicaret.Application.pdb
+C:\Users\ARKMAN\source\repos\BarTicaret\BarTicaret.Application\bin\Debug\net8.0\BarTicaret.Domain.dll
+C:\Users\ARKMAN\source\repos\BarTicaret\BarTicaret.Application\bin\Debug\net8.0\BarTicaret.Domain.pdb
+C:\Users\ARKMAN\source\repos\BarTicaret\BarTicaret.Application\obj\Debug\net8.0\BarTicaret.Application.csproj.AssemblyReference.cache
+C:\Users\ARKMAN\source\repos\BarTicaret\BarTicaret.Application\obj\Debug\net8.0\BarTicaret.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARKMAN\source\repos\BarTicaret\BarTicaret.Application\obj\Debug\net8.0\BarTicaret.Application.AssemblyInfoInputs.cache
+C:\Users\ARKMAN\source\repos\BarTicaret\BarTicaret.Application\obj\Debug\net8.0\BarTicaret.Application.AssemblyInfo.cs
+C:\Users\ARKMAN\source\repos\BarTicaret\BarTicaret.Application\obj\Debug\net8.0\BarTicaret.Application.csproj.CoreCompileInputs.cache
+C:\Users\ARKMAN\source\repos\BarTicaret\BarTicaret.Application\obj\Debug\net8.0\BarTicar.7401FC46.Up2Date
+C:\Users\ARKMAN\source\repos\BarTicaret\BarTicaret.Application\obj\Debug\net8.0\BarTicaret.Application.dll
+C:\Users\ARKMAN\source\repos\BarTicaret\BarTicaret.Application\obj\Debug\net8.0\refint\BarTicaret.Application.dll
+C:\Users\ARKMAN\source\repos\BarTicaret\BarTicaret.Application\obj\Debug\net8.0\BarTicaret.Application.pdb
+C:\Users\ARKMAN\source\repos\BarTicaret\BarTicaret.Application\obj\Debug\net8.0\ref\BarTicaret.Application.dll

@@ -1,0 +1,548 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ARKMAN\\source\\repos\\BarTicaret\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A7FE4DA-86C6-4E20-9B66-D4E143F035FD}|BarTicaret.WebUI\\BarTicaret.WebUI.csproj|c:\\users\\arkman\\source\\repos\\barticaret\\barticaret.webui\\views\\admin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A7FE4DA-86C6-4E20-9B66-D4E143F035FD}|BarTicaret.WebUI\\BarTicaret.WebUI.csproj|solutionrelative:barticaret.webui\\views\\admin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A7FE4DA-86C6-4E20-9B66-D4E143F035FD}|BarTicaret.WebUI\\BarTicaret.WebUI.csproj|c:\\users\\arkman\\source\\repos\\barticaret\\barticaret.webui\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A7FE4DA-86C6-4E20-9B66-D4E143F035FD}|BarTicaret.WebUI\\BarTicaret.WebUI.csproj|solutionrelative:barticaret.webui\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A7FE4DA-86C6-4E20-9B66-D4E143F035FD}|BarTicaret.WebUI\\BarTicaret.WebUI.csproj|c:\\users\\arkman\\source\\repos\\barticaret\\barticaret.webui\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A7FE4DA-86C6-4E20-9B66-D4E143F035FD}|BarTicaret.WebUI\\BarTicaret.WebUI.csproj|solutionrelative:barticaret.webui\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A7FE4DA-86C6-4E20-9B66-D4E143F035FD}|BarTicaret.WebUI\\BarTicaret.WebUI.csproj|c:\\users\\arkman\\source\\repos\\barticaret\\barticaret.webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A7FE4DA-86C6-4E20-9B66-D4E143F035FD}|BarTicaret.WebUI\\BarTicaret.WebUI.csproj|solutionrelative:barticaret.webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB5AD535-65AE-4A7A-9E7D-50AF050A483B}|BarTicaret.Application\\BarTicaret.Application.csproj|c:\\users\\arkman\\source\\repos\\barticaret\\barticaret.application\\lookup\\lookupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB5AD535-65AE-4A7A-9E7D-50AF050A483B}|BarTicaret.Application\\BarTicaret.Application.csproj|solutionrelative:barticaret.application\\lookup\\lookupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB5AD535-65AE-4A7A-9E7D-50AF050A483B}|BarTicaret.Application\\BarTicaret.Application.csproj|c:\\users\\arkman\\source\\repos\\barticaret\\barticaret.application\\lookup\\ilookupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB5AD535-65AE-4A7A-9E7D-50AF050A483B}|BarTicaret.Application\\BarTicaret.Application.csproj|solutionrelative:barticaret.application\\lookup\\ilookupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB5AD535-65AE-4A7A-9E7D-50AF050A483B}|BarTicaret.Application\\BarTicaret.Application.csproj|c:\\users\\arkman\\source\\repos\\barticaret\\barticaret.application\\lookup\\lookupdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB5AD535-65AE-4A7A-9E7D-50AF050A483B}|BarTicaret.Application\\BarTicaret.Application.csproj|solutionrelative:barticaret.application\\lookup\\lookupdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A7FE4DA-86C6-4E20-9B66-D4E143F035FD}|BarTicaret.WebUI\\BarTicaret.WebUI.csproj|c:\\users\\arkman\\source\\repos\\barticaret\\barticaret.webui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A7FE4DA-86C6-4E20-9B66-D4E143F035FD}|BarTicaret.WebUI\\BarTicaret.WebUI.csproj|solutionrelative:barticaret.webui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A7FE4DA-86C6-4E20-9B66-D4E143F035FD}|BarTicaret.WebUI\\BarTicaret.WebUI.csproj|c:\\users\\arkman\\source\\repos\\barticaret\\barticaret.webui\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A7FE4DA-86C6-4E20-9B66-D4E143F035FD}|BarTicaret.WebUI\\BarTicaret.WebUI.csproj|solutionrelative:barticaret.webui\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A7FE4DA-86C6-4E20-9B66-D4E143F035FD}|BarTicaret.WebUI\\BarTicaret.WebUI.csproj|c:\\users\\arkman\\source\\repos\\barticaret\\barticaret.webui\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A7FE4DA-86C6-4E20-9B66-D4E143F035FD}|BarTicaret.WebUI\\BarTicaret.WebUI.csproj|solutionrelative:barticaret.webui\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A7FE4DA-86C6-4E20-9B66-D4E143F035FD}|BarTicaret.WebUI\\BarTicaret.WebUI.csproj|c:\\users\\arkman\\source\\repos\\barticaret\\barticaret.webui\\services\\simpleauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A7FE4DA-86C6-4E20-9B66-D4E143F035FD}|BarTicaret.WebUI\\BarTicaret.WebUI.csproj|solutionrelative:barticaret.webui\\services\\simpleauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A7FE4DA-86C6-4E20-9B66-D4E143F035FD}|BarTicaret.WebUI\\BarTicaret.WebUI.csproj|c:\\users\\arkman\\source\\repos\\barticaret\\barticaret.webui\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A7FE4DA-86C6-4E20-9B66-D4E143F035FD}|BarTicaret.WebUI\\BarTicaret.WebUI.csproj|solutionrelative:barticaret.webui\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B80D48-0C22-4AC9-8622-C359E99FC7EE}|BarTicaret.Infrastructure\\BarTicaret.Infrastructure.csproj|c:\\users\\arkman\\source\\repos\\barticaret\\barticaret.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B80D48-0C22-4AC9-8622-C359E99FC7EE}|BarTicaret.Infrastructure\\BarTicaret.Infrastructure.csproj|solutionrelative:barticaret.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A7FE4DA-86C6-4E20-9B66-D4E143F035FD}|BarTicaret.WebUI\\BarTicaret.WebUI.csproj|c:\\users\\arkman\\source\\repos\\barticaret\\barticaret.webui\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A7FE4DA-86C6-4E20-9B66-D4E143F035FD}|BarTicaret.WebUI\\BarTicaret.WebUI.csproj|solutionrelative:barticaret.webui\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB5AD535-65AE-4A7A-9E7D-50AF050A483B}|BarTicaret.Application\\BarTicaret.Application.csproj|c:\\users\\arkman\\source\\repos\\barticaret\\barticaret.application\\products\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB5AD535-65AE-4A7A-9E7D-50AF050A483B}|BarTicaret.Application\\BarTicaret.Application.csproj|solutionrelative:barticaret.application\\products\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB5AD535-65AE-4A7A-9E7D-50AF050A483B}|BarTicaret.Application\\BarTicaret.Application.csproj|c:\\users\\arkman\\source\\repos\\barticaret\\barticaret.application\\products\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB5AD535-65AE-4A7A-9E7D-50AF050A483B}|BarTicaret.Application\\BarTicaret.Application.csproj|solutionrelative:barticaret.application\\products\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A7FE4DA-86C6-4E20-9B66-D4E143F035FD}|BarTicaret.WebUI\\BarTicaret.WebUI.csproj|c:\\users\\arkman\\source\\repos\\barticaret\\barticaret.webui\\views\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A7FE4DA-86C6-4E20-9B66-D4E143F035FD}|BarTicaret.WebUI\\BarTicaret.WebUI.csproj|solutionrelative:barticaret.webui\\views\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A7FE4DA-86C6-4E20-9B66-D4E143F035FD}|BarTicaret.WebUI\\BarTicaret.WebUI.csproj|c:\\users\\arkman\\source\\repos\\barticaret\\barticaret.webui\\views\\shop\\buy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A7FE4DA-86C6-4E20-9B66-D4E143F035FD}|BarTicaret.WebUI\\BarTicaret.WebUI.csproj|solutionrelative:barticaret.webui\\views\\shop\\buy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A7FE4DA-86C6-4E20-9B66-D4E143F035FD}|BarTicaret.WebUI\\BarTicaret.WebUI.csproj|c:\\users\\arkman\\source\\repos\\barticaret\\barticaret.webui\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A7FE4DA-86C6-4E20-9B66-D4E143F035FD}|BarTicaret.WebUI\\BarTicaret.WebUI.csproj|solutionrelative:barticaret.webui\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A7FE4DA-86C6-4E20-9B66-D4E143F035FD}|BarTicaret.WebUI\\BarTicaret.WebUI.csproj|c:\\users\\arkman\\source\\repos\\barticaret\\barticaret.webui\\views\\auth\\denied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A7FE4DA-86C6-4E20-9B66-D4E143F035FD}|BarTicaret.WebUI\\BarTicaret.WebUI.csproj|solutionrelative:barticaret.webui\\views\\auth\\denied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662EB5A3-5EDC-485B-9C44-3DB5327D0FA6}|BarTicaret.WebApi\\BarTicaret.WebApi.csproj|c:\\users\\arkman\\source\\repos\\barticaret\\barticaret.webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{662EB5A3-5EDC-485B-9C44-3DB5327D0FA6}|BarTicaret.WebApi\\BarTicaret.WebApi.csproj|solutionrelative:barticaret.webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662EB5A3-5EDC-485B-9C44-3DB5327D0FA6}|BarTicaret.WebApi\\BarTicaret.WebApi.csproj|c:\\users\\arkman\\source\\repos\\barticaret\\barticaret.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{662EB5A3-5EDC-485B-9C44-3DB5327D0FA6}|BarTicaret.WebApi\\BarTicaret.WebApi.csproj|solutionrelative:barticaret.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B80D48-0C22-4AC9-8622-C359E99FC7EE}|BarTicaret.Infrastructure\\BarTicaret.Infrastructure.csproj|c:\\users\\arkman\\source\\repos\\barticaret\\barticaret.infrastructure\\repositories\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B80D48-0C22-4AC9-8622-C359E99FC7EE}|BarTicaret.Infrastructure\\BarTicaret.Infrastructure.csproj|solutionrelative:barticaret.infrastructure\\repositories\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B80D48-0C22-4AC9-8622-C359E99FC7EE}|BarTicaret.Infrastructure\\BarTicaret.Infrastructure.csproj|c:\\users\\arkman\\source\\repos\\barticaret\\barticaret.infrastructure\\repositories\\efrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B80D48-0C22-4AC9-8622-C359E99FC7EE}|BarTicaret.Infrastructure\\BarTicaret.Infrastructure.csproj|solutionrelative:barticaret.infrastructure\\repositories\\efrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB5AD535-65AE-4A7A-9E7D-50AF050A483B}|BarTicaret.Application\\BarTicaret.Application.csproj|c:\\users\\arkman\\source\\repos\\barticaret\\barticaret.application\\abstractions\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB5AD535-65AE-4A7A-9E7D-50AF050A483B}|BarTicaret.Application\\BarTicaret.Application.csproj|solutionrelative:barticaret.application\\abstractions\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB5AD535-65AE-4A7A-9E7D-50AF050A483B}|BarTicaret.Application\\BarTicaret.Application.csproj|c:\\users\\arkman\\source\\repos\\barticaret\\barticaret.application\\products\\productdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB5AD535-65AE-4A7A-9E7D-50AF050A483B}|BarTicaret.Application\\BarTicaret.Application.csproj|solutionrelative:barticaret.application\\products\\productdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A94E493B-918E-468D-A6A4-C18AE56F659F}|BarTicaret.Domain\\BarTicaret.Domain.csproj|c:\\users\\arkman\\source\\repos\\barticaret\\barticaret.domain\\entities\\urunmateryal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A94E493B-918E-468D-A6A4-C18AE56F659F}|BarTicaret.Domain\\BarTicaret.Domain.csproj|solutionrelative:barticaret.domain\\entities\\urunmateryal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A94E493B-918E-468D-A6A4-C18AE56F659F}|BarTicaret.Domain\\BarTicaret.Domain.csproj|c:\\users\\arkman\\source\\repos\\barticaret\\barticaret.domain\\entities\\materyal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A94E493B-918E-468D-A6A4-C18AE56F659F}|BarTicaret.Domain\\BarTicaret.Domain.csproj|solutionrelative:barticaret.domain\\entities\\materyal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A94E493B-918E-468D-A6A4-C18AE56F659F}|BarTicaret.Domain\\BarTicaret.Domain.csproj|c:\\users\\arkman\\source\\repos\\barticaret\\barticaret.domain\\entities\\kategori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A94E493B-918E-468D-A6A4-C18AE56F659F}|BarTicaret.Domain\\BarTicaret.Domain.csproj|solutionrelative:barticaret.domain\\entities\\kategori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A94E493B-918E-468D-A6A4-C18AE56F659F}|BarTicaret.Domain\\BarTicaret.Domain.csproj|c:\\users\\arkman\\source\\repos\\barticaret\\barticaret.domain\\entities\\urun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A94E493B-918E-468D-A6A4-C18AE56F659F}|BarTicaret.Domain\\BarTicaret.Domain.csproj|solutionrelative:barticaret.domain\\entities\\urun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 431,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 70,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ARKMAN\\source\\repos\\BarTicaret\\BarTicaret.WebUI\\Views\\Admin\\Create.cshtml",
+              "RelativeDocumentMoniker": "BarTicaret.WebUI\\Views\\Admin\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ARKMAN\\source\\repos\\BarTicaret\\BarTicaret.WebUI\\Views\\Admin\\Create.cshtml",
+              "RelativeToolTip": "BarTicaret.WebUI\\Views\\Admin\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-28T12:04:28.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LookupService.cs",
+              "DocumentMoniker": "C:\\Users\\ARKMAN\\source\\repos\\BarTicaret\\BarTicaret.Application\\Lookup\\LookupService.cs",
+              "RelativeDocumentMoniker": "BarTicaret.Application\\Lookup\\LookupService.cs",
+              "ToolTip": "C:\\Users\\ARKMAN\\source\\repos\\BarTicaret\\BarTicaret.Application\\Lookup\\LookupService.cs*",
+              "RelativeToolTip": "BarTicaret.Application\\Lookup\\LookupService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T12:03:07.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ILookupService.cs",
+              "DocumentMoniker": "C:\\Users\\ARKMAN\\source\\repos\\BarTicaret\\BarTicaret.Application\\Lookup\\ILookupService.cs",
+              "RelativeDocumentMoniker": "BarTicaret.Application\\Lookup\\ILookupService.cs",
+              "ToolTip": "C:\\Users\\ARKMAN\\source\\repos\\BarTicaret\\BarTicaret.Application\\Lookup\\ILookupService.cs",
+              "RelativeToolTip": "BarTicaret.Application\\Lookup\\ILookupService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T12:02:51.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LookupDtos.cs",
+              "DocumentMoniker": "C:\\Users\\ARKMAN\\source\\repos\\BarTicaret\\BarTicaret.Application\\Lookup\\LookupDtos.cs",
+              "RelativeDocumentMoniker": "BarTicaret.Application\\Lookup\\LookupDtos.cs",
+              "ToolTip": "C:\\Users\\ARKMAN\\source\\repos\\BarTicaret\\BarTicaret.Application\\Lookup\\LookupDtos.cs",
+              "RelativeToolTip": "BarTicaret.Application\\Lookup\\LookupDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T12:02:38.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ARKMAN\\source\\repos\\BarTicaret\\BarTicaret.WebUI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BarTicaret.WebUI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ARKMAN\\source\\repos\\BarTicaret\\BarTicaret.WebUI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BarTicaret.WebUI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-28T12:01:47.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ARKMAN\\source\\repos\\BarTicaret\\BarTicaret.WebUI\\Views\\Create.cshtml",
+              "RelativeDocumentMoniker": "BarTicaret.WebUI\\Views\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ARKMAN\\source\\repos\\BarTicaret\\BarTicaret.WebUI\\Views\\Create.cshtml",
+              "RelativeToolTip": "BarTicaret.WebUI\\Views\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-28T11:50:09.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ARKMAN\\source\\repos\\BarTicaret\\BarTicaret.WebUI\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "BarTicaret.WebUI\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ARKMAN\\source\\repos\\BarTicaret\\BarTicaret.WebUI\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "BarTicaret.WebUI\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-28T11:49:39.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\ARKMAN\\source\\repos\\BarTicaret\\BarTicaret.WebUI\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "BarTicaret.WebUI\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\ARKMAN\\source\\repos\\BarTicaret\\BarTicaret.WebUI\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "BarTicaret.WebUI\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAIwFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T11:49:12.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Buy.cshtml",
+              "DocumentMoniker": "C:\\Users\\ARKMAN\\source\\repos\\BarTicaret\\BarTicaret.WebUI\\Views\\Shop\\Buy.cshtml",
+              "RelativeDocumentMoniker": "BarTicaret.WebUI\\Views\\Shop\\Buy.cshtml",
+              "ToolTip": "C:\\Users\\ARKMAN\\source\\repos\\BarTicaret\\BarTicaret.WebUI\\Views\\Shop\\Buy.cshtml",
+              "RelativeToolTip": "BarTicaret.WebUI\\Views\\Shop\\Buy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-28T11:48:56.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ARKMAN\\source\\repos\\BarTicaret\\BarTicaret.WebUI\\Views\\Shop\\Index.cshtml",
+              "RelativeDocumentMoniker": "BarTicaret.WebUI\\Views\\Shop\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ARKMAN\\source\\repos\\BarTicaret\\BarTicaret.WebUI\\Views\\Shop\\Index.cshtml",
+              "RelativeToolTip": "BarTicaret.WebUI\\Views\\Shop\\Index.cshtml",
+              "ViewState": "AgIAACAAAAAAAAAAAAAcwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-28T11:48:43.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ShopController.cs",
+              "DocumentMoniker": "C:\\Users\\ARKMAN\\source\\repos\\BarTicaret\\BarTicaret.WebUI\\Controllers\\ShopController.cs",
+              "RelativeDocumentMoniker": "BarTicaret.WebUI\\Controllers\\ShopController.cs",
+              "ToolTip": "C:\\Users\\ARKMAN\\source\\repos\\BarTicaret\\BarTicaret.WebUI\\Controllers\\ShopController.cs",
+              "RelativeToolTip": "BarTicaret.WebUI\\Controllers\\ShopController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAhwDQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T11:48:12.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Denied.cshtml",
+              "DocumentMoniker": "C:\\Users\\ARKMAN\\source\\repos\\BarTicaret\\BarTicaret.WebUI\\Views\\Auth\\Denied.cshtml",
+              "RelativeDocumentMoniker": "BarTicaret.WebUI\\Views\\Auth\\Denied.cshtml",
+              "ToolTip": "C:\\Users\\ARKMAN\\source\\repos\\BarTicaret\\BarTicaret.WebUI\\Views\\Auth\\Denied.cshtml",
+              "RelativeToolTip": "BarTicaret.WebUI\\Views\\Auth\\Denied.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-28T11:47:54.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ARKMAN\\source\\repos\\BarTicaret\\BarTicaret.WebUI\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "BarTicaret.WebUI\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ARKMAN\\source\\repos\\BarTicaret\\BarTicaret.WebUI\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "BarTicaret.WebUI\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-28T11:47:38.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\ARKMAN\\source\\repos\\BarTicaret\\BarTicaret.WebUI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "BarTicaret.WebUI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\ARKMAN\\source\\repos\\BarTicaret\\BarTicaret.WebUI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "BarTicaret.WebUI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T11:47:01.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SimpleAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\ARKMAN\\source\\repos\\BarTicaret\\BarTicaret.WebUI\\Services\\SimpleAuthService.cs",
+              "RelativeDocumentMoniker": "BarTicaret.WebUI\\Services\\SimpleAuthService.cs",
+              "ToolTip": "C:\\Users\\ARKMAN\\source\\repos\\BarTicaret\\BarTicaret.WebUI\\Services\\SimpleAuthService.cs*",
+              "RelativeToolTip": "BarTicaret.WebUI\\Services\\SimpleAuthService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T11:46:44.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\ARKMAN\\source\\repos\\BarTicaret\\BarTicaret.WebUI\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "BarTicaret.WebUI\\Services\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\ARKMAN\\source\\repos\\BarTicaret\\BarTicaret.WebUI\\Services\\IAuthService.cs*",
+              "RelativeToolTip": "BarTicaret.WebUI\\Services\\IAuthService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T11:46:29.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ARKMAN\\source\\repos\\BarTicaret\\BarTicaret.WebUI\\Program.cs",
+              "RelativeDocumentMoniker": "BarTicaret.WebUI\\Program.cs",
+              "ToolTip": "C:\\Users\\ARKMAN\\source\\repos\\BarTicaret\\BarTicaret.WebUI\\Program.cs",
+              "RelativeToolTip": "BarTicaret.WebUI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T11:45:42.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\ARKMAN\\source\\repos\\BarTicaret\\BarTicaret.WebApi\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "BarTicaret.WebApi\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\ARKMAN\\source\\repos\\BarTicaret\\BarTicaret.WebApi\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "BarTicaret.WebApi\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T11:39:48.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ARKMAN\\source\\repos\\BarTicaret\\BarTicaret.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "BarTicaret.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\ARKMAN\\source\\repos\\BarTicaret\\BarTicaret.WebApi\\Program.cs",
+              "RelativeToolTip": "BarTicaret.WebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T11:38:35.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\ARKMAN\\source\\repos\\BarTicaret\\BarTicaret.Infrastructure\\Repositories\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "BarTicaret.Infrastructure\\Repositories\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\ARKMAN\\source\\repos\\BarTicaret\\BarTicaret.Infrastructure\\Repositories\\DependencyInjection.cs",
+              "RelativeToolTip": "BarTicaret.Infrastructure\\Repositories\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T11:38:14.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EfRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ARKMAN\\source\\repos\\BarTicaret\\BarTicaret.Infrastructure\\Repositories\\EfRepository.cs",
+              "RelativeDocumentMoniker": "BarTicaret.Infrastructure\\Repositories\\EfRepository.cs",
+              "ToolTip": "C:\\Users\\ARKMAN\\source\\repos\\BarTicaret\\BarTicaret.Infrastructure\\Repositories\\EfRepository.cs",
+              "RelativeToolTip": "BarTicaret.Infrastructure\\Repositories\\EfRepository.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAcwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T11:37:48.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ARKMAN\\source\\repos\\BarTicaret\\BarTicaret.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "BarTicaret.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ARKMAN\\source\\repos\\BarTicaret\\BarTicaret.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "BarTicaret.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA1wBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T11:37:14.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\ARKMAN\\source\\repos\\BarTicaret\\BarTicaret.Application\\Products\\ProductService.cs",
+              "RelativeDocumentMoniker": "BarTicaret.Application\\Products\\ProductService.cs",
+              "ToolTip": "C:\\Users\\ARKMAN\\source\\repos\\BarTicaret\\BarTicaret.Application\\Products\\ProductService.cs",
+              "RelativeToolTip": "BarTicaret.Application\\Products\\ProductService.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAQwGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T11:35:46.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\ARKMAN\\source\\repos\\BarTicaret\\BarTicaret.Application\\Products\\IProductService.cs",
+              "RelativeDocumentMoniker": "BarTicaret.Application\\Products\\IProductService.cs",
+              "ToolTip": "C:\\Users\\ARKMAN\\source\\repos\\BarTicaret\\BarTicaret.Application\\Products\\IProductService.cs",
+              "RelativeToolTip": "BarTicaret.Application\\Products\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T11:35:13.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ARKMAN\\source\\repos\\BarTicaret\\BarTicaret.Application\\Abstractions\\IRepository.cs",
+              "RelativeDocumentMoniker": "BarTicaret.Application\\Abstractions\\IRepository.cs",
+              "ToolTip": "C:\\Users\\ARKMAN\\source\\repos\\BarTicaret\\BarTicaret.Application\\Abstractions\\IRepository.cs",
+              "RelativeToolTip": "BarTicaret.Application\\Abstractions\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T11:34:53.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProductDtos.cs",
+              "DocumentMoniker": "C:\\Users\\ARKMAN\\source\\repos\\BarTicaret\\BarTicaret.Application\\Products\\ProductDtos.cs",
+              "RelativeDocumentMoniker": "BarTicaret.Application\\Products\\ProductDtos.cs",
+              "ToolTip": "C:\\Users\\ARKMAN\\source\\repos\\BarTicaret\\BarTicaret.Application\\Products\\ProductDtos.cs",
+              "RelativeToolTip": "BarTicaret.Application\\Products\\ProductDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T11:34:04.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UrunMateryal.cs",
+              "DocumentMoniker": "C:\\Users\\ARKMAN\\source\\repos\\BarTicaret\\BarTicaret.Domain\\Entities\\UrunMateryal.cs",
+              "RelativeDocumentMoniker": "BarTicaret.Domain\\Entities\\UrunMateryal.cs",
+              "ToolTip": "C:\\Users\\ARKMAN\\source\\repos\\BarTicaret\\BarTicaret.Domain\\Entities\\UrunMateryal.cs",
+              "RelativeToolTip": "BarTicaret.Domain\\Entities\\UrunMateryal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T11:31:20.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Urun.cs",
+              "DocumentMoniker": "C:\\Users\\ARKMAN\\source\\repos\\BarTicaret\\BarTicaret.Domain\\Entities\\Urun.cs",
+              "RelativeDocumentMoniker": "BarTicaret.Domain\\Entities\\Urun.cs",
+              "ToolTip": "C:\\Users\\ARKMAN\\source\\repos\\BarTicaret\\BarTicaret.Domain\\Entities\\Urun.cs",
+              "RelativeToolTip": "BarTicaret.Domain\\Entities\\Urun.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T11:30:49.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Materyal.cs",
+              "DocumentMoniker": "C:\\Users\\ARKMAN\\source\\repos\\BarTicaret\\BarTicaret.Domain\\Entities\\Materyal.cs",
+              "RelativeDocumentMoniker": "BarTicaret.Domain\\Entities\\Materyal.cs",
+              "ToolTip": "C:\\Users\\ARKMAN\\source\\repos\\BarTicaret\\BarTicaret.Domain\\Entities\\Materyal.cs",
+              "RelativeToolTip": "BarTicaret.Domain\\Entities\\Materyal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T11:30:20.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Kategori.cs",
+              "DocumentMoniker": "C:\\Users\\ARKMAN\\source\\repos\\BarTicaret\\BarTicaret.Domain\\Entities\\Kategori.cs",
+              "RelativeDocumentMoniker": "BarTicaret.Domain\\Entities\\Kategori.cs",
+              "ToolTip": "C:\\Users\\ARKMAN\\source\\repos\\BarTicaret\\BarTicaret.Domain\\Entities\\Kategori.cs",
+              "RelativeToolTip": "BarTicaret.Domain\\Entities\\Kategori.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T11:29:54.347Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
